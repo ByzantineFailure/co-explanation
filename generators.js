@@ -44,7 +44,7 @@ function logValue(value) {
 }
 
 var //gen = basicGenerator(),
-    gen = generatorWithReturn();
+    gen = generatorWithReturn(),
     val = gen.next();
 
 while(!val.done) {
