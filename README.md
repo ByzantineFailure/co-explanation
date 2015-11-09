@@ -13,4 +13,4 @@ It's a basic, promises-only implementation of `co` and some examples which are r
 ##Supplemental:
 * `homebrew-co-fs.js`
 
-This entire repo is licensed under the <a href="http://www.wtfpl.net/">WTFPL</a>
+Repo licensed under the MIT License
