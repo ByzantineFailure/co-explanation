@@ -1,4 +1,7 @@
 {
+  "scripts" : {
+    "test": "jshint co-async.js generators.js homebrew-co* no-co-async.js"
+  },
   "dependencies": {
     "co": "^4.6.0",
     "co-fs": "^1.2.0"

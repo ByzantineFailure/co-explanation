@@ -12,4 +12,4 @@ function writeFile(file, data) {
             } 
         });
     });
-};
+}
